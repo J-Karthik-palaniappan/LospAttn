@@ -54,7 +54,7 @@ python sample_pixart.py --model pixart1k --window 512 --raw
 python sample_pixart.py --model pixart2k --window 2048 --raw
 ```
 
-Images are saved as PNGs:
+Images are saved as JPGs:
 Default location: `images/<model>/`
 
 Each run also prints how much of the attention LoSpAttn replaced:
