@@ -1,0 +1,11 @@
+
+# Python
+__pycache__/
+
+# Environments
+venv/
+.venv/
+
+# Generated outputs
+images/
+outputs/
